@@ -10,8 +10,17 @@ Este repositório foi criado como parte do desafio da DIO para praticar a config
 - [Pré-requisitos](#pré-requisitos)
 - [Passo a Passo](#passo-a-passo)
 - [Dicas Úteis](#dicas-úteis)
-- [Capturas de Tela](#capturas-de-tela)
 - [Referências](#referências)
+
+---
+
+---
+
+## 📌 Referências
+
+- [Documentação Oficial - Criar Instância Gerenciada SQL](https://learn.microsoft.com/pt-br/azure/azure-sql/database/sql-database-paas-overview)
+- [Guia de Markdown GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Formação GitHub Certification (GitBook)](https://dio.me/github-certification)
 
 ---
 
@@ -68,6 +77,15 @@ Antes de iniciar, certifique-se de ter:
 - Ative o **firewall apenas para o seu IP público** para mais segurança
 - Crie **scripts de backup e restore** no SQL Server para testar funcionalidades avançadas
 - Utilize tags nos recursos do Azure para organização e controle de custos
+
+---
+---
+
+## 📌 Referências
+
+- [Documentação Oficial - Criar Instância Gerenciada SQL](https://learn.microsoft.com/pt-br/azure/azure-sql/database/sql-database-paas-overview)
+- [Guia de Markdown GitHub](https://guides.github.com/features/mastering-markdown/)
+- [Formação GitHub Certification (GitBook)](https://dio.me/github-certification)
 
 ---
 
